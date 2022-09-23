@@ -1,0 +1,9 @@
+.country{
+    background-color: lightpink;
+    padding: 10px;
+    margin: 10px;
+    border: 2px solid red;
+}
+.country img{
+    width: 50%;
+}
